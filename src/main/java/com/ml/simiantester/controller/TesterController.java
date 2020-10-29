@@ -12,7 +12,7 @@ import com.ml.simiantester.dto.Dna;
 import com.ml.simiantester.service.TesterService;
 
 @RestController
-@RequestMapping("tester")
+@RequestMapping("simian")
 public class TesterController {
 	
 	@Autowired
